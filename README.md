@@ -1,2 +1,1 @@
-# Lab0x04
-Tripblet Sum Problem
+# Lab0x04-tripblet sum problem
